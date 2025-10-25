@@ -20,11 +20,11 @@
 </a>
 
 <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/AOWNMUHAMMAD143/AOWNMUHAMMAD143/blob/main/HTML.png)" alt="HTML5" width="40" height="40"/>
+    <img src="https://github.com/AOWNMUHAMMAD143/AOWNMUHAMMAD143/blob/main/HTML.png" alt="HTML5" width="40" height="40"/>
   </a>
 
 <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/AOWNMUHAMMAD143/AOWNMUHAMMAD143/blob/main/CSS.png)" alt="CSS" width="40" height="40"/>
+    <img src="https://github.com/AOWNMUHAMMAD143/AOWNMUHAMMAD143/blob/main/CSS.png" alt="CSS" width="40" height="40"/>
   </a>
 
 </p>
