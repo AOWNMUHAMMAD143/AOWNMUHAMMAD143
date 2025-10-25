@@ -1,4 +1,4 @@
-![logo](https://github.com/AOWNMUHAMMAD143/AOWNMUHAMMAD143/blob/main/github.banner.png.png)
+![logo](https://github.com/AOWNMUHAMMAD143/AOWNMUHAMMAD143/blob/main/BANNER.PNG.jpg)
 <h1 align="center">Hi 👋, I'm AOWN MUHAMMAD</h1>
 <h3 align="center">A passionate Computer Science student.</h3>
 
